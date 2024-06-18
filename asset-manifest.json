@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/GYMFIT/static/css/main.789eabf0.css",
+    "main.js": "/GYMFIT/static/js/main.10e3e42f.js",
+    "static/js/453.81747bd6.chunk.js": "/GYMFIT/static/js/453.81747bd6.chunk.js",
+    "static/media/img1.png": "/GYMFIT/static/media/img1.1f036278cccacbb0ccdc.png",
+    "static/media/back.png": "/GYMFIT/static/media/back.55706f06bf8b5e6805f9.png",
+    "static/media/video.png": "/GYMFIT/static/media/video.d582089133eaf9865e11.png",
+    "static/media/orange.png": "/GYMFIT/static/media/orange.16e6cf2aa4715e856103.png",
+    "static/media/img6.png": "/GYMFIT/static/media/img6.7b2a9512e293128f44fb.png",
+    "static/media/img2.png": "/GYMFIT/static/media/img2.849a1de2e597694fa5a8.png",
+    "static/media/img12.png": "/GYMFIT/static/media/img12.357862f8e53cd124383c.png",
+    "static/media/img11.png": "/GYMFIT/static/media/img11.a6e9e09e2f82b7b02c08.png",
+    "static/media/do.png": "/GYMFIT/static/media/do.06a0f2b592a8afee0ae4.png",
+    "static/media/img15.png": "/GYMFIT/static/media/img15.e78d770bba4789df4df7.png",
+    "static/media/img14.png": "/GYMFIT/static/media/img14.89fce02f2c64efdd3701.png",
+    "static/media/bf.png": "/GYMFIT/static/media/bf.590bd4a1bedcf6b40135.png",
+    "static/media/img23.png": "/GYMFIT/static/media/img23.b759c2432bbb084e146f.png",
+    "static/media/img10.png": "/GYMFIT/static/media/img10.20e371612b3e48064a31.png",
+    "static/media/img3.png": "/GYMFIT/static/media/img3.5088b720630e798b99ae.png",
+    "static/media/img8.png": "/GYMFIT/static/media/img8.6851f993b08a68255eb9.png",
+    "static/media/img7.png": "/GYMFIT/static/media/img7.43f87a739ae680733724.png",
+    "static/media/img5.png": "/GYMFIT/static/media/img5.27840d6944bf97c9a5f4.png",
+    "static/media/img13.png": "/GYMFIT/static/media/img13.92cf2bc51c3c665df98b.png",
+    "static/media/img4.png": "/GYMFIT/static/media/img4.39620e010c135a26ab65.png",
+    "static/media/bar2.png": "/GYMFIT/static/media/bar2.200e5ec24e04ae0c44ea.png",
+    "static/media/bar1.png": "/GYMFIT/static/media/bar1.0d32279bdebd83a6373e.png",
+    "index.html": "/GYMFIT/index.html",
+    "main.789eabf0.css.map": "/GYMFIT/static/css/main.789eabf0.css.map",
+    "main.10e3e42f.js.map": "/GYMFIT/static/js/main.10e3e42f.js.map",
+    "453.81747bd6.chunk.js.map": "/GYMFIT/static/js/453.81747bd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.789eabf0.css",
+    "static/js/main.10e3e42f.js"
+  ]
+}
