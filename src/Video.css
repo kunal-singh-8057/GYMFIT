@@ -1,0 +1,38 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.back5
+{
+    background-color: rgba(30, 30, 30, 1);
+    width: 100%;
+    height: 100vh;
+}
+
+.video
+{
+    margin-left: 10%;
+
+}
+
+.circle
+{
+   margin-left: 48%;
+    position: relative;
+   
+}
+
+.disk
+{
+    margin-top: -22%;
+    position: relative;
+}
+
+.tri
+{
+    margin-left: -4.5%;
+    position: absolute;
+    margin-top: 2%;
+}

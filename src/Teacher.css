@@ -1,0 +1,50 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.back3
+{
+    background-color: rgba(30, 30, 30, 1);
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
+
+.ins
+{
+    color: white;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 35px;
+}
+
+.set
+{
+    margin-top: 2%;
+    margin-left: 10%;
+    display: flex;
+    gap: 4%;
+   
+}
+
+.j
+{
+    color: white;
+    margin-left: 4%;
+}
+
+.g
+{
+    color: white;
+    margin-left: 7%;
+    margin-top: 2%;
+}
+
+.so
+{
+    margin-top: 25%;
+    width: 0%;
+    margin-left: -10%;
+}
