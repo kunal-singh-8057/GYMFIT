@@ -9,7 +9,7 @@ import './Cards.css'
 const Cards = () => {
   return (
     <>
-        <div className='back40'>
+        <div className='back4'>
         <h1 className='feed'>Customer Feedbacks</h1>
 
         <div className='cardsets'>
